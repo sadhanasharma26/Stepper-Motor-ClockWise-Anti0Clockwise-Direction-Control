@@ -18,4 +18,4 @@ Stepper motor is a brushless DC motor that rotates in way. This is veritably use
 * [@sadhanasharma26](https://github.com/sadhanasharma26)
 
 # License
-* [Apache 2.0]()
+* [Apache Licence 2.0]()
