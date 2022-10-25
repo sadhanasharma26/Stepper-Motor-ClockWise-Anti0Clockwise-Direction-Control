@@ -15,7 +15,7 @@ Stepper motor is a brushless DC motor that rotates in way. This is veritably use
 **IDE Used:** Arduino IDE
 
 # Authors
-* [@sadhanasharma26](https://github.com/sadhanasharma26)
+* [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
 
 # License
 * [Apache Licence 2.0]()
